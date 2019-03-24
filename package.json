@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-raven",
+  "version": "1.0.0",
+  "description": "ESLint configuration that just works and looks neat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nekiono/eslint-config-raven.git"
+  },
+  "author": "Raven <raven@farfrom.earth>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/nekiono/eslint-config-raven/issues"
+  },
+  "homepage": "https://gitlab.com/nekiono/eslint-config-raven#readme"
+}
