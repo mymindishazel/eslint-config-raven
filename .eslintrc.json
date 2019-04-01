@@ -264,5 +264,13 @@
 		"symbol-description": "warn",
 		"template-curly-spacing": "off",
 		"yield-star-spacing": ["error", "after"]
-	}
+	},
+	"overrides": [
+		{
+			"files": ["index.js"],
+			"rules": {
+				"global-require": "off"
+			}
+		}
+  ]
 }
