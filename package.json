@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/nekiono/eslint-config-raven.git"
+    "url": "git+https://github.com/nekiono/eslint-config-raven.git"
   },
   "author": "Raven <raven@farfrom.earth>",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/nekiono/eslint-config-raven/issues"
+    "url": "https://github.com/nekiono/eslint-config-raven/issues"
   },
-  "homepage": "https://gitlab.com/nekiono/eslint-config-raven#readme"
+  "homepage": "https://github.com/nekiono/eslint-config-raven#readme"
 }
