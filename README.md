@@ -1,5 +1,5 @@
 # eslint-config-raven
-Very strict ESLint config to make code consistent and more beautiful that I use myself.
+Very strict ESLint config to make code consistent and more beautiful, that I use myself.
 
 ## Installation
 ```

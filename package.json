@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-raven",
-  "version": "1.0.1",
-  "description": "ESLint configuration that just works and looks neat.",
+  "version": "1.0.2",
+  "description": "Very strict ESLint config to make code consistent and more beautiful, that I use myself.",
   "main": "index.js",
   "repository": {
     "type": "git",
