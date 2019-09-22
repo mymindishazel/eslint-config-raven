@@ -1,22 +1,14 @@
 # eslint-config-raven
-ESLint configuration for me and everyone stealing my coding style.
+Very strict ESLint config to make code consistent and more beautiful that I use myself.
 
 ## Installation
 ```
-npm install --dev eslint nekiono/eslint-config-raven
+npm install --dev eslint eslint-config-raven
 ```
 
-.eslintrc.json:
+.eslintrc:
 ```json
 {
 	"extends": "raven"
 }
 ```
-
-.eslintrc.js:
-```js
-module.exports = {
-	"extends": "raven"
-}
-```
-
