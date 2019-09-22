@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-raven",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint configuration that just works and looks neat.",
   "main": "index.js",
   "repository": {
