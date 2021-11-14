@@ -1,6 +1,6 @@
 {
 	"parserOptions": {
-		"ecmaVersion": 2018
+		"ecmaVersion": 2022
 	},
 	"env": {
 		"node": true,
@@ -43,6 +43,7 @@
 		"no-unreachable": "error",
 		"no-unsafe-finally": "error",
 		"no-unsafe-negation": "error",
+		"no-unsafe-optional-chaining": "error",
 		"require-atomic-updates": "error",
 		"use-isnan": "error",
 		"valid-typeof": "error",
@@ -109,6 +110,7 @@
 		"no-magic-numbers": [
 			"warn",
 			{
+			        "ignore": [0, 1, 2],
 				"ignoreArrayIndexes": true,
 				"enforceConst": true
 			}
