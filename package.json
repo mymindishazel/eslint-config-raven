@@ -5,12 +5,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nekiono/eslint-config-raven.git"
+    "url": "git+https://github.com/PrincessRavy/eslint-config-raven.git"
   },
-  "author": "Ravy <ravy@cloudy.gg> (https://ravy.xyz)",
+  "author": "Ravy <contact_gen+eslint@ravy.org> (https://ravy.org)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nekiono/eslint-config-raven/issues"
+    "url": "https://github.com/PrincessRavy/eslint-config-raven/issues"
   },
-  "homepage": "https://github.com/nekiono/eslint-config-raven#readme"
+  "homepage": "https://github.com/PrincessRavy/eslint-config-raven#readme"
 }
