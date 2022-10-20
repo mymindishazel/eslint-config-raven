@@ -191,11 +191,7 @@ module.exports = {
 		],
 		"function-paren-newline": ["error", "never"],
 		"id-blacklist": "off",
-		"id-length": ["warn",
-			{
-				"min": 2
-			}
-		],
+		"id-length": ["error", { "exceptions": ["i", "j", "a", "b", "_"] }],
 		"id-match": "off",
 		"implicit-arrow-linebreak": ["error", "beside"],
 		"indent": ["error", "tab"],
